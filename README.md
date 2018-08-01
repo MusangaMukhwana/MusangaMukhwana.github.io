@@ -9,4 +9,10 @@ Create a web application that takes a number from a user and returns a range of 
 - Numbers divisible by 15 are replaced with "pingpong"
 
 A user should be able to enter a new number and see new results over and over again
-# MusangaMukhwana.github.io
+
+  Made Using:
+  Bootstrap
+  Javascript
+  CSS
+  HTML
+
